@@ -179,7 +179,7 @@ iscsiadm -m session --rescan
 ```
 	
 After the server has restarted, the mount process is performed by applying the **'blkid'** and the following steps in the previous heading.
-<br><br>
+<br><br><br><br>
 ### Extending the LVM Disk
 
 It is ensured that the newly defined disk is detected.
